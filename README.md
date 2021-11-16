@@ -12,15 +12,15 @@ An experiment on the effects of anti-anxiety medicine on memory recall when bein
 
 Drugs of interest (known-as) [Dosage 1, 2, 3]:
 
-A - Alprazolam (Xanax, Long-term) [1mg/3mg/5mg]
+__A - Alprazolam__ (Xanax, Long-term) [1mg/3mg/5mg]
 
-T - Triazolam (Halcion, Short-term) [0.25mg/0.5mg/0.75mg]
+__T - Triazolam__ (Halcion, Short-term) [0.25mg/0.5mg/0.75mg]
 
-S- Sugar Tablet (Placebo) [1 tab/2tabs/3tabs]
+__S- Sugar Tablet__ (Placebo) [1 tab/2tabs/3tabs]
 
-*Dosages follow a 1:1 ratio to ensure validity
-*Happy or Sad memories were primed 10 minutes prior to testing
-*Participants tested every day for 1 week to mimic addiction
+*Dosages follow a 1:1 ratio to ensure validity<br>
+*Happy or Sad memories were primed 10 minutes prior to testing<br>
+*Participants tested every day for 1 week to mimic addiction<br>
 
 ### _Building the Case_:
 Obstructive effects of Benzodiazepines (Anti-Anxiety Medicine):

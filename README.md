@@ -43,9 +43,3 @@ File contains information on participants drug treatment information along with 
 ## Acknowledgements
 Experiment was executed under the supervision of Mr. Almohalwas at UCLA.
 All aspects of the experiment such as experimental design, data collection and preprocessing was done from myself.
-
-## Inspiration
-How does anti-anxiety medicine affect you differently by age?
-Is there a level of plateauing in effectiveness of anti-anxiety medicine - if so, at what point?
-Effect of anti-anxiety medicine on memory recall?
-Effectiveness of placebos in a test environment?

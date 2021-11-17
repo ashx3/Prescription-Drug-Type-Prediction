@@ -1,10 +1,11 @@
 ## __Tasks__:
 ### Prescription Drug Type Prediction
+
 Given data about subjects' performances on a memory test, let's try to predict which prescription drug a given subject ingested.
 
 We will use a variety of classification models to make our predictions.
 
-__[__KAGGLE DataSource Link__](https://www.kaggle.com/steveahn/memory-test-on-drugged-islanders-data)__
+__DataSource__ -  _[KAGGLE DATASET LINK](https://www.kaggle.com/steveahn/memory-test-on-drugged-islanders-data)_
 
 ## __Description__
 
@@ -41,5 +42,5 @@ Participants - all genders above 25+ years old to ensure a fully developed pre-f
 File contains information on participants drug treatment information along with their test scores.
 
 ## Acknowledgements
-Experiment was executed under the supervision of Mr. Almohalwas at UCLA.
+Experiment was executed under the supervision of Mr. Almohalwas at UCLA.<br>
 All aspects of the experiment such as experimental design, data collection and preprocessing was done from myself.
